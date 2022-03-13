@@ -25,7 +25,6 @@ out/
 .gradle
 .gradle/
 build/
-DSM/app/src
 
 # Signing files
 .signing/

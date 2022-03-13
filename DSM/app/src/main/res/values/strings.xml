@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">DSM</string>
+    <string name="login_button_label">Iniciar sesión</string>
+    <string name="email_label_hint">Name</string>
+    <string name="password_label_hint">Contraseña</string>
+    <string name="login_title_label">Iniciar sesión</string>
+    <string name="login_subtitle_label">Para acceder a los ejercicios debes iniciar sesión primero.</string>
+    <string name="option_name_label">Nombre de la opción</string>
+    <string name="visit_btn_label">Visitar</string>
+    <string name="option_title_label">Título de la opción</string>
+    <string name="variable_a_label">Variable A</string>
+    <string name="variable_b_label">Variable B</string>
+    <string name="variable_c_label">Variable C</string>
+    <string name="resolve_equation_label">Calcular</string>
+    <string name="x1_0_x2_0_default_label">X1: 0, X2: 0</string>
+    <string name="clean_fields_label">Limpiar</string>
+    <string name="vote_title_label">Vota por tu candidato favorito.</string>
+    <string name="count_votes_btn_label">Contar votos</string>
+    <string name="worked_hours_label">Horas trabajadas</string>
+    <string name="full_name_hint_label">Nombre y apellidos</string>
+    <string name="hours_number_hint_label">Numero de horas</string>
+    <string name="rol_label">Rol</string>
+    <string name="save_employee_btn_label">Guardar empleado</string>
+    <string name="no_employees_registered_label">No hay empleados registrados</string>
+    <string name="load_employees_btn_label">Cargar empleados</string>
+    <string name="highest_salary_label">X tiene mayor salario con $0</string>
+    <string name="lowest_salary_label">X tiene menor salario con $0</string>
+    <string name="salary_above_300_label">Salarios arriba de $300</string>
+    <string name="salary_list_label">Salarios</string>
+    <string name="employee_name_label">Nombre del empleado</string>
+    <string name="salary_total_label">Salario líquido: $0</string>
+    <string name="salary_with_discounts_label">Salario con descuentos: $0</string>
+
+    <string-array name="employee_roles">
+        <item>Gerente</item>
+        <item>Asistente</item>
+        <item>Secretaria</item>
+        <item>Operaciones</item>
+    </string-array>
+</resources>
